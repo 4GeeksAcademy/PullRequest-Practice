@@ -2,7 +2,7 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 template: "online-cv"
-skin: "red"
+skin: "orange"
 
 basic_info:
 
@@ -24,7 +24,7 @@ basic_info:
     phone: 642 62 39 07 
     website: github.com/devdeividea #do not add http://
     linkedin: David evora
-    github: devdeividea
+    github: davidevora
     twitter: '@DavidEvora_'
     stack-overflow: David Evora # Number/Username, e.g. 123456/alandoe
 
